@@ -1,0 +1,19 @@
+<dataSets>
+    <dataSet_1>
+        <firstName>Diana</firstName>
+        <lastName>Mandache</lastName>
+        <age>25</age>
+        <email>test@test.ro</email>
+        <salary>10000</salary>
+        <department>IT</department>
+    </dataSet_1>
+
+    <dataSet_2>
+        <firstName>Ion</firstName>
+        <lastName>Macovei</lastName>
+        <age>26</age>
+        <email>test@test2.ro</email>
+        <salary>100000</salary>
+        <department>Testing</department>
+    </dataSet_2>
+</dataSets>
